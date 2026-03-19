@@ -121,7 +121,7 @@ pizza-sales-dashboard/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/pizza-sales-dashboard.git
+   git clone https://github.com/hariprasanth02/Pizza_Sales_Analysis.git
    ```
 2. Open `Pizza_Sales_Report.pbix` in **Power BI Desktop**
 3. Load the dataset from the `data/` folder if prompted
